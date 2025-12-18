@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAppMVC", "WebAppMVC\WebAppMVC.csproj", "{C0A272CF-0F56-456F-BD89-CD380F4053F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniPro1-Book", "MiniPro1-Book\MiniPro1-Book.csproj", "{9575BE49-4A05-47CB-8B2B-390B920D49E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0A272CF-0F56-456F-BD89-CD380F4053F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0A272CF-0F56-456F-BD89-CD380F4053F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0A272CF-0F56-456F-BD89-CD380F4053F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0A272CF-0F56-456F-BD89-CD380F4053F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9575BE49-4A05-47CB-8B2B-390B920D49E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9575BE49-4A05-47CB-8B2B-390B920D49E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9575BE49-4A05-47CB-8B2B-390B920D49E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9575BE49-4A05-47CB-8B2B-390B920D49E6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

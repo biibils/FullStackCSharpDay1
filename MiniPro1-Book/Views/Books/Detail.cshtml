@@ -1,0 +1,14 @@
+@model BookMVC.Models.Books;
+
+@{
+	ViewData["Title"] = "Detail Buku";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<div asp-action="Details" asp-route-id="@Model.Id">
+	<h3>@Model.Title</h3>
+	<p><strong>Penulis:</strong> @Model.Author</p>
+	<p><strong>Genre:</strong> @Model.Genre</p>
+	<p><strong>Tahun Terbit:</strong> @Model.YearPublished</p>
+</div>

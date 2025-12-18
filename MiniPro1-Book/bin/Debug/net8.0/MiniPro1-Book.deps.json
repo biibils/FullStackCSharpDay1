@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MiniPro1-Book/1.0.0": {
+        "runtime": {
+          "MiniPro1-Book.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MiniPro1-Book/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
