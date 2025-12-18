@@ -28,3 +28,4 @@ D:\WEBDEV\ParadayaSE\FullStackCSharp\FullStackDay1\WebAppMVC\obj\Debug\net8.0\re
 D:\WEBDEV\ParadayaSE\FullStackCSharp\FullStackDay1\WebAppMVC\obj\Debug\net8.0\WebAppMVC.pdb
 D:\WEBDEV\ParadayaSE\FullStackCSharp\FullStackDay1\WebAppMVC\obj\Debug\net8.0\WebAppMVC.genruntimeconfig.cache
 D:\WEBDEV\ParadayaSE\FullStackCSharp\FullStackDay1\WebAppMVC\obj\Debug\net8.0\ref\WebAppMVC.dll
+D:\WEBDEV\ParadayaSE\FullStackCSharp\FullStackDay1\WebAppMVC\obj\Debug\net8.0\WebAppMVC.sourcelink.json

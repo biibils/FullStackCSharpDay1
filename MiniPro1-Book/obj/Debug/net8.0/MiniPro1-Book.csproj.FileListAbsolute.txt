@@ -28,3 +28,4 @@ D:\WEBDEV\ParadayaSE\FullStackCSharp\FullStackDay1\MiniPro1-Book\obj\Debug\net8.
 D:\WEBDEV\ParadayaSE\FullStackCSharp\FullStackDay1\MiniPro1-Book\obj\Debug\net8.0\MiniPro1-Book.pdb
 D:\WEBDEV\ParadayaSE\FullStackCSharp\FullStackDay1\MiniPro1-Book\obj\Debug\net8.0\MiniPro1-Book.genruntimeconfig.cache
 D:\WEBDEV\ParadayaSE\FullStackCSharp\FullStackDay1\MiniPro1-Book\obj\Debug\net8.0\ref\MiniPro1-Book.dll
+D:\WEBDEV\ParadayaSE\FullStackCSharp\FullStackDay1\MiniPro1-Book\obj\Debug\net8.0\MiniPro1-Book.sourcelink.json
